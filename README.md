@@ -25,4 +25,4 @@ Determine if additional features can be added to enrich the data set
 Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data.
 Evaluate the accuracy of the best machine learning model
 Determine what features were most important in the model’s prediction decision
-Explain the inner working of the model to a non-technical audience.
+Highlighting the project conclusions
