@@ -1,4 +1,4 @@
-Task : I was challenged to create a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data.
+I created a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data.
 
 Kolawole_david_project_notebook.ipynb : This notbook contains the codes uswed for this project 
 
